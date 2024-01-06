@@ -44,4 +44,3 @@ Create a file named `.env` and add the `OPENAI_API_KEY` to it.
 ```bash
 sudo hupper -m streamlit run app.py
 ```
-# new changes here
