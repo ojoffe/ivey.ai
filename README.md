@@ -23,15 +23,15 @@ The LLM Agent elevates the basic LLM by incorporating predefined functions that 
 
 ### Clone repository
 ```bash
-git clone https://github.com/syyunn/oai-rag
-cd oai-rag
+git clone https://github.com/ojoffe/ivey.ai
+cd ivey.ai
 ```
 
 ### Prep Env & Install dependencies
 
 ```bash
-conda create -n oai-rag python=3.9
-conda activate oai-rag
+conda create -n ivey.ai python=3.9
+conda activate ivey.ai
 pip install -r requirements.txt
 ```
 
